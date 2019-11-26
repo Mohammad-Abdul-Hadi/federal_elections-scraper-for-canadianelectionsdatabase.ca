@@ -1,7 +1,7 @@
 # federal_elections-scraper-for-canadianelectionsdatabase.ca
 Python Scraper to scrape | Canadian ELection Database
 
-## Database Source Citatiom
+## Database Source Citation
 * Sayers, 2017:
 Sayers, A.M. (2017). Canadian Elections Database. Retrieved 15 October 2019, from http://canadianelectionsdatabase.ca
 
