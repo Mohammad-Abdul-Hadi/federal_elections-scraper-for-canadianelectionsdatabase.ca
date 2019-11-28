@@ -12,3 +12,7 @@ Sayers, A.M. (2017). Canadian Elections Database. Retrieved 15 October 2019, fro
 ## Retrieve Information about:
 * Party, Candidates, Seats Won,	% of Seats Won, and	% of Vote of all the available federal eleections
 * Party, Candidates, Seats Won,	% of Seats Won, and	% of Vote of th ewinning Party for all province upto 6 most recent available federal eleections (can be modified to retrieve all) - Have used selenium to capture AJAX request
+
+## Gist:
+![Image 1](https://raw.githubusercontent.com/Mohammad-Abdul-Hadi/scraper-for-canadianelectionsdatabase.ca/master/Scraper%20output%201.png)
+![Image 2](https://raw.githubusercontent.com/Mohammad-Abdul-Hadi/scraper-for-canadianelectionsdatabase.ca/master/Scraper%20output%202.png)
